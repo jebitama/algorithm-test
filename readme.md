@@ -19,10 +19,10 @@ yarn
 ## How to run the code 🚀
 
 ```javascript
-#run & exit
+/* run & exit */
 yarn start
 
-#run & watch
+/* run & watch */
 yarn start:watch
 ```
 
