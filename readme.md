@@ -1,6 +1,6 @@
 # Algorithm test by Jebi Tamami
 
-Algorithm test to solve cases from [Ituloh](https://www.ituloh.co/) startup using Node.js and Typescript and Jest library to do unit test.
+Algorithm test to solve cases using Node.js and Typescript and Jest library to do unit test.
 🔥
 
 Cases:
